@@ -23,7 +23,7 @@ Notebook will be available in Google Drive and GitHub
 
  #### GitHub - Public
 
-Go to [Practicum1](https://https://github.com/coverm/practicum1)
+Go to [Practicum1](https://github.com/coverm/practicum1/tree/main)
 
 
  #### Google Drive 
