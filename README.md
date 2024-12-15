@@ -1,4 +1,4 @@
-# Marilise Cover -- PRACTICUM1 & PRACTICUM2 -- Image Enhancement 
+# Marilise Cover -- PRACTICUM1 & 2 - Image Enhancement 
 
  [1. Project Setup on AI Studio](#1-project-setup-on-ai-studio)
 
