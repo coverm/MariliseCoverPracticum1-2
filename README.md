@@ -28,6 +28,7 @@ Go to [Practicum1](https://github.com/coverm/practicum1/tree/main)
 
  #### Google Drive 
 You can access the notebook directly from this [PRACTICUM-1-MariliseCover](https://drive.google.com/drive/folders/1Imrpe7ERdi5kI3FlYwNq1MvvS2TqUdty?usp=drive_link). 
+PRACTICUM2-MariliseCover[PRACTICUM-2-MariliseCover](https://drive.google.com/drive/folders/15kIRSyrUfpNH6KAuyyvQmh2pgh4E4xuN?usp=sharing)
 
  ---
  ## 2. Project Resources
