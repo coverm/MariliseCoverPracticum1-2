@@ -1,4 +1,4 @@
-# Marilise Cover -- PRACTICUM1 -- Image Enhancement 
+# Marilise Cover -- PRACTICUM1 & PRACTICUM2 -- Image Enhancement 
 
  [1. Project Setup on AI Studio](#1-project-setup-on-ai-studio)
 
@@ -44,6 +44,9 @@ https://github.com/pytorch/examples/blob/main/imagenet/main.py
 
 Lornatag       
 https://github.com/Lornatang/FSRCNN-PyTorch/blob/master/model.py 
+
+PyTorch Tutorials 2.4.0 & documentationYou can access the notebook directly from this PyTorch Cheat Sheet.
+https://pytorch.org/tutorials/beginner/ptcheat.html 
 
 ## Colleagues      
 Rafael Borges        
