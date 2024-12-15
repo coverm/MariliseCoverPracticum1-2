@@ -46,7 +46,8 @@ https://github.com/pytorch/examples/blob/main/imagenet/main.py
 Lornatag       
 https://github.com/Lornatang/FSRCNN-PyTorch/blob/master/model.py 
 
-PyTorch Tutorials 2.4.0 & documentationYou can access the notebook directly from this PyTorch Cheat Sheet.
+PyTorch Tutorials 2.4.0 & documentation.
+You can access the notebook directly from this PyTorch Cheat Sheet.
 https://pytorch.org/tutorials/beginner/ptcheat.html 
 
 ## Colleagues      
